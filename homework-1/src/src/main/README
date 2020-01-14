@@ -1,0 +1,10 @@
+This project contains a calculator that can have three values
+It has multiple functions
+getMax method is used to check which number is the greatest
+getMin is used to check which number is the smallest
+getSum is used to calculate the sum of the three numbers
+getAverage is used to calculate the Average of all three numbers
+areAllPositive is used to check if the numbers are all positive numbers
+isAEven is used to check if the first number is even or not
+
+The test document contains tests for each method with different values
